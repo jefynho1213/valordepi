@@ -1,4 +1,4 @@
-# valordepi
+# Calculando valor de PI
 
 Usando o metodo de probabilidade de monte carlo o programa fuciona da seguinte forma.
 A função "rand" gera valores aleatórios para as variaveis x e y, após isso usamos a formula que calcula a distancia entre dois pontos
